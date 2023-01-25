@@ -13,7 +13,8 @@ Install:
 # Day Two
 **Introduction to Commandline**
 
-1. Introducing the Shell	What is a command shell and why would I use one?
+1. Introducing the Shell	
+- What is a command shell and why would I use one?
 2. Navigating Files and Directories:
 - How can I move around on my computer?
 - How can I see what files and directories I have?
